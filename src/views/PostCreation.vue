@@ -14,7 +14,7 @@
       />
     </div>
     <PostEditor
-      class="post-creation__canvas"
+      class="post-creation__post-editor"
       :template="template"
     />
   </div>
@@ -74,9 +74,9 @@ export default {
         margin-bottom: 20px;
       }
     }
-    &__canvas {
-      height: 100vh;
-      width: 75%;
+    &__post-editor {
+      height: calc(100vh - 100px);
+      width: 100%;
     }
   }
 </style>

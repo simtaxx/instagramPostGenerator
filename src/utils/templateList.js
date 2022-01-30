@@ -5,6 +5,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 2,
@@ -12,6 +24,17 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 3,
@@ -19,6 +42,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 4,
@@ -26,6 +61,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 5,
@@ -33,6 +80,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 6,
@@ -40,6 +99,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 7,
@@ -47,6 +118,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 8,
@@ -54,6 +137,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 9,
@@ -61,6 +156,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 10,
@@ -68,6 +175,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 11,
@@ -75,6 +194,18 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
   {
     id: 12,
@@ -82,5 +213,17 @@ export default [
     picture: 'example.png',
     width: 300,
     height: 300,
+    features: {
+      logo: {
+        text: 'news',
+      },
+      background: true,
+      zoom: true,
+      text: {
+        main: true,
+        center: true,
+        caps: true,
+      },
+    },
   },
 ];
